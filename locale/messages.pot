@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lgettext 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-10 18:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: test.lua:13 test.lua:22 test.lua:24
+msgid "test"
+msgstr ""
+
+#: test.lua:14
+msgid "test2"
+msgstr ""
+
+#: test.lua:15 test.lua:16 test.lua:17
+#, lua-format
+msgid "%d window"
+msgid_plural "%d windows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: test.lua:23 test.lua:25
+#, lua-format
+msgid "%d test"
+msgid_plural "%d tests"
+msgstr[0] ""
+msgstr[1] ""

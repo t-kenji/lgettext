@@ -1,0 +1,39 @@
+# Japanese translations for lgettext package
+# lgettext パッケージに対する英訳.
+# Copyright (C) 2017 THE lgettext'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the lgettext package.
+# root <root@76f9156bf224>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lgettext 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-10 18:06+0000\n"
+"PO-Revision-Date: 2017-09-04 14:00+0000\n"
+"Last-Translator: root <root@76f9156bf224>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: test.lua:13 test.lua:22 test.lua:24
+msgid "test"
+msgstr "テスト"
+
+#: test.lua:14
+msgid "test2"
+msgstr "テスト２"
+
+#: test.lua:15 test.lua:16 test.lua:17
+#, lua-format
+msgid "%d window"
+msgid_plural "%d windows"
+msgstr[0] "%d 窓0"
+
+#: test.lua:23 test.lua:25
+#, lua-format
+msgid "%d test"
+msgid_plural "%d tests"
+msgstr[0] "%d テスト"

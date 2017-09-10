@@ -1,0 +1,41 @@
+# German translations for lgettext package
+# German translation for lgettext.
+# Copyright (C) 2017 THE lgettext'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the lgettext package.
+# root <root@76f9156bf224>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lgettext 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-10 18:06+0000\n"
+"PO-Revision-Date: 2017-09-10 13:06+0000\n"
+"Last-Translator: root <root@76f9156bf224>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: test.lua:13 test.lua:22 test.lua:24
+msgid "test"
+msgstr "de test"
+
+#: test.lua:14
+msgid "test2"
+msgstr "de test2"
+
+#: test.lua:15 test.lua:16 test.lua:17
+#, lua-format
+msgid "%d window"
+msgid_plural "%d windows"
+msgstr[0] "%d window0"
+msgstr[1] "%d windows1"
+
+#: test.lua:23 test.lua:25
+#, lua-format
+msgid "%d test"
+msgid_plural "%d tests"
+msgstr[0] "de %d test"
+msgstr[1] "de %d tests"
