@@ -1,5 +1,6 @@
 --[[
 lgettext: gettext module for lua.
+https://github.com/t-kenji/lgettext
 Copyright 2017 t-kenji <protect.2501@gmail.com>
 MIT Licensed.
 ]]

@@ -1,6 +1,6 @@
 # lgettext - gettext module for lua
 
-Referred to the [impleentation of python](https://github.com/python/cpython/blob/3.6/Lib/gettext.py).
+Referred to the [implentation of python](https://github.com/python/cpython/blob/3.6/Lib/gettext.py).
 
 ## Usage
 
